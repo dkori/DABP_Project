@@ -40,4 +40,4 @@ pitt_census_vars<-get_acs(year=2018,variables=to_retrieve,state="PA",county = "A
   #reorder variables
   select(c("GEOID",names(to_retrieve)))
 
-write_csv(pitt_census_vars,"Alle Co census data.csv")
+write_csv(pitt_census_vars,"Alle Co income and commute census data.csv")
