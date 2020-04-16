@@ -44,6 +44,5 @@ vacant<-parcels_with_value%>%
   #limit to pittsburgh
   filter(PROPERTYCITY__asmt=="PITTSBURGH")
 
-?st_write
 st_write(parcels_with_value,"parcels_with_land_values.geojson")
 st_write(vacant,"vacant_parcels_with_land_values.geojson")
