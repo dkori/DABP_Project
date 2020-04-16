@@ -43,6 +43,6 @@ vacant<-parcels_with_value%>%
   filter(LOTAREA__asmt>=30000)%>%
   #limit to pittsburgh
   filter(PROPERTYCITY__asmt=="PITTSBURGH")
-
+#export files as geojson
 st_write(parcels_with_value,"parcels_with_land_values.geojson")
 st_write(vacant,"vacant_parcels_with_land_values.geojson")
