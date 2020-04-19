@@ -6,6 +6,10 @@ library(tidycensus)
 
 vars<-load_variables(year=2018,dataset="acs5")
 
+
+foot<-vars%>%
+  filter(grepl("parcel",concept,ignore.case=TRUE))
+
 #grab household income variables
 income<-vars%>%
   filter(grepl("household income", concept,ignore.case=TRUE))
