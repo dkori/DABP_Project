@@ -1,1 +1,7 @@
 config.py
+.gitignore
+*.Rdata
+*.Rhistory
+*.Rproj
+*.Rproj.user/
+*.geojson
