@@ -1,0 +1,62 @@
+OBJECTID,Company_Name,Address,City,State,ZIP_Code,NAICS_1,NAICS_1_Description,Latitude,Longitude,price score
+1,5th Avenue Food Market,1701 5th Ave,Pittsburgh,PA,15219,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.438553,-79.982357,2
+2,Aden Market,1318 Federal St # 1,Pittsburgh,PA,15212,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.457247,-80.006974,2
+3,ALDI,2628 E Carson St,Pittsburgh,PA,15203,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.426989,-79.96741,1
+4,ALDI,5200 Penn Ave,Pittsburgh,PA,15224,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.464217,-79.939334,1
+5,ALDI,5631 Baum Blvd,Pittsburgh,PA,15206,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.467565,-79.922069,1
+6,Bloomfield Shure Save,4401 Liberty Ave,Pittsburgh,PA,15224,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.463737,-79.952945,1
+7,Bombay Food Market,4605 Centre Ave,Pittsburgh,PA,15213,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.452097,-79.951764,1
+9,Bryant Street Market,5901 Bryant St # 12,Pittsburgh,PA,15206,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.475783,-79.919563,2
+11,Donatelli's Italian Food,4711 Liberty Ave,Bloomfield,PA,15224,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.462062,-79.949411,1
+12,East End Food,7516 Meade St,Pittsburgh,PA,15208,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.448193,-79.895473,2
+13,Edna's Marketing & Deli,529 Mount Pleasant Rd,Pittsburgh,PA,15214,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.478108,-80.000358,2
+14,Everest Grocery Store,1810 Brownsville Rd,Pittsburgh,PA,15210,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.39691,-79.987919,1
+16,Food Lion,1411 Beaver Ave,Pittsburgh,PA,15233,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.453435,-80.029809,2
+17,Food Shoppe,5878 Northumberland St,Pittsburgh,PA,15217,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.441781,-79.920149,1
+18,Giant Eagle,755 Beechnut Dr,Crafton,PA,15205,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.453906,-80.084539,3
+19,Giant Eagle,1165 Mckinney Ln # 1007,Pittsburgh,PA,15220,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.423698,-80.035956,3
+20,Giant Eagle,1901 Murray Ave,Pittsburgh,PA,15217,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.435885,-79.922753,3
+21,Giant Eagle,2021 Wharton St,Pittsburgh,PA,15203,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.431124,-79.976656,3
+22,Giant Eagle,318-320 Cedar Ave,Pittsburgh,PA,15212,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.460458,-80.009588,3
+23,Giant Eagle,4250 Murray Ave,Pittsburgh,PA,15217,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.422266,-79.929478,3
+24,Giant Eagle,6320 Shakespeare St # 7,Pittsburgh,PA,15206,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.458846,-79.921065,3
+26,Grokhali Store,2116 Brownsville Rd,Pittsburgh,PA,15210,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.392614,-79.986821,2
+28,Himalayan Asian Grocery LLC,2122 Brownsville Rd,Pittsburgh,PA,15210,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.392224,-79.986854,2
+29,Jimmy Sunseri & Nino Co,1901 Penn Ave # 1,Pittsburgh,PA,15222,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.45087,-79.984591,1
+30,Joseph Labriola Sausage Co,2614 Penn Ave,Pittsburgh,PA,15222,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.45509,-79.977912,2
+31,Kiev,4223 Murray Ave,Pittsburgh,PA,15217,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.422376,-79.928747,2
+32,Kohli's Indian Imports,319 S Craig St,Pittsburgh,PA,15213,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.445099,-79.9486,1
+33,Kuhn's Market,1130 Highwood St,Pittsburgh,PA,15212,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.468451,-80.026621,2
+34,Kuhn's Market,3125 Banksville Rd,Pittsburgh,PA,15216,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.400238,-80.043657,2
+35,L A Grocery,511 Larimer Ave,Pittsburgh,PA,15206,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.465611,-79.914114,1
+36,Labad's,1727 Penn Ave,Pittsburgh,PA,15222,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.450327,-79.98546,1
+37,Le's Grocery,5482 Penn Ave,Pittsburgh,PA,15206,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.464006,-79.932619,1
+38,Linea Verde Green Market,4619 Liberty Ave,Pittsburgh,PA,15224,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.462479,-79.950145,1
+40,Market District,910 Freeport Rd,Blawnox,PA,15238,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.486623,-79.891733,2
+41,Market District,5550 Centre Ave,Pittsburgh,PA,15232,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.456874,-79.934978,2
+42,Market On Broadway Avenue IGA,1604 Broadway Ave,Pittsburgh,PA,15216,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.409414,-80.024959,1
+43,Market Street Grocery,435 Market St,Pittsburgh,PA,15222,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.441182,-80.002389,2
+44,Mediterranean Market,2021 E Carson St,Pittsburgh,PA,15203,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.428749,-79.976696,2
+45,Merante Groceria,3454 Bates St,Pittsburgh,PA,15213,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.436541,-79.95533,1
+46,Morningside Market,1748 Chislett St,Pittsburgh,PA,15206,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.485274,-79.925822,2
+47,Natalya European Food Market,4370 Murray Ave,Pittsburgh,PA,15217,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.419955,-79.928501,2
+51,Panda Supermarket LLC,5846 Forbes Ave,Pittsburgh,PA,15217,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.437857,-79.921325,2
+52,Peoples Grocery,5136 Penn Ave,Pittsburgh,PA,15224,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.464789,-79.941656,1
+55,Quick Schwartz Market,3303 Brighton Rd,Pittsburgh,PA,15212,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.460458,-80.009588,3
+58,Sam's Market,7356 Stranahan St,Pittsburgh,PA,15206,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.461471,-79.890089,2
+59,Sambok Korean Groceries,1735 Penn Ave,Pittsburgh,PA,15222,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.450455,-79.985221,1
+60,Shadyside Natural Foods,5401 Baum Blvd,Pittsburgh,PA,15232,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.453929,-79.933376,2
+61,Shop 'n Save Supermarkets,125 Virginia Ave,Mount Washington,PA,15211,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.429391,-80.007565,1
+62,Shop 'n Save Supermarkets,1119 Brownsville Rd,Pittsburgh,PA,15210,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.40482,-79.990538,1
+63,Shop 'n Save Supermarkets,2103 Noblestown Rd,Pittsburgh,PA,15205,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.432378,-80.051983,1
+64,Shop 'n Save Supermarkets,450 56th St # 1,Pittsburgh,PA,15201,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.48384,-79.94757,1
+66,Subzi Mandi Groceries,3103 Banksville Rd,Pittsburgh,PA,15216,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.400525,-80.043383,2
+67,Suluv Deli & Grocery,1303 Brownsville Rd,Pittsburgh,PA,15210,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.402866,-79.98952,1
+68,Tokyo Japanese Food Store,5855 Ellsworth Ave,Pittsburgh,PA,15232,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.457229,-79.929264,2
+69,Trader Joe's,6343 Penn Ave,Pittsburgh,PA,15206,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.459079,-79.91948,1
+71,United Food Mart,3112 Chartiers Ave,Pittsburgh,PA,15204,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.453684,-80.061539,2
+72,W N Grocery's,1018 W North Ave,Pittsburgh,PA,15233,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.453283,-80.020292,1
+73,Whole Foods Market,5880 Centre Ave,Pittsburgh,PA,15206,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.458567,-79.928698,3
+74,Wild Purveyors LLC,5308 Butler St # A,Pittsburgh,PA,15201,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.482271,-79.952199,3
+75,Yi Chung Kwan Grocery,4701 5th Ave,Pittsburgh,PA,15213,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.447235,-79.947104,2
+76,Young's Oriental Grocery Store,5813 Forward Ave,Pittsburgh,PA,15217,445110,Supermarkets/Other Grocery (Exc Convenience) Strs,40.429616,-79.922707,1
